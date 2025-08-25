@@ -1,4 +1,4 @@
-#👋 Hi, I’m Murilo Rodrigues
+# 👋 Hi, I’m Murilo Rodrigues
 
 🎓 Student of Systems Development at [ETEC Prof. Camargo Aranha]
 💻 Training as a Back-End Developer at SENAI
