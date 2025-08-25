@@ -1,8 +1,11 @@
 # 👋 Hi, I’m Murilo Rodrigues
 
 🎓 Student of Systems Development at [ETEC Prof. Camargo Aranha]
+
 💻 Training as a Back-End Developer at SENAI
+
 ☕ Passionate about Java, OOP, and SQL, currently exploring Spring Boot and REST APIs
+
 🚀 Looking for opportunities as a Back-End Development Intern / Junior Developer
 
 
