@@ -42,7 +42,7 @@ MyProjects → Personal projects in different languages
 
 📱 WhatsApp: +55 (11) 96144-0243
 
-🌐 LinkedIn: (add once available)
+🌐 LinkedIn: www.linkedin.com/in/murilo-rodrigues-viegas-883628311
 
 🖥️ GitHub: MuriloRVv2
 
