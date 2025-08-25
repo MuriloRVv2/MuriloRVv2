@@ -1,5 +1,3 @@
----
-
 #👋 Hi, I’m Murilo Rodrigues
 
 🎓 Student of Systems Development at [ETEC Prof. Camargo Aranha]
@@ -8,7 +6,7 @@
 🚀 Looking for opportunities as a Back-End Development Intern / Junior Developer
 
 
----
+###
 
 🔧 Tech Stack & Tools
 
