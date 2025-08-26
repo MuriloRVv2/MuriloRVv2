@@ -15,9 +15,9 @@
 
 Languages: Java, SQL, PHP, TypeScript, JavaScript, CSS
 
-Frameworks: Spring Boot (learning), Hibernate (learning)
+Frameworks: Spring Boot (learning)
 
-Databases: MySQL, PostgreSQL, H2
+Databases: MySQL
 
 Tools: Git, GitHub, VS Code, Eclipse
 
