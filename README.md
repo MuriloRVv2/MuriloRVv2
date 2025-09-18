@@ -29,8 +29,6 @@ Tools: Git, GitHub, VS Code, Eclipse
 
 DevBack-End_SENAI → Java exercises and backend concepts
 
-Cover Letter Chatbot (in progress) → Automatic generation of customized cover letters
-
 MyProjects → Personal projects in different languages
 
 
