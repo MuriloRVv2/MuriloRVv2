@@ -40,7 +40,8 @@ I'm a dedicated learner with a strong foundation in programming, eager to contri
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Eclipse](https://img.shields.io/badge/Eclipse-2C1810?style=for-the-badge&logo=eclipse&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C1810?style=for-the-badge&logo=eclipse&logoColor=white)  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
@@ -82,6 +83,8 @@ I'm always open to chatting about tech, collaborations, or opportunities. Reach 
   <img src="https://download.logo.wine/logo/Eclipse_(software)/Eclipse_(software)-Logo.wine.png" height="40" alt="Eclipse" />  
   <img width="12" />  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" height="40" alt="VS Code" />  
+  <img width="12" />  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJIDEAIcon.svg/512px-IntelliJIDEAIcon.svg.png" height="40" alt="IntelliJ IDEA" />  
   <img width="12" />  
   <img src="https://github.com/MuriloRVv2/MuriloRVv2/blob/output/github-contribution-grid-snake.gif" alt="Snake Animation" width="300" />
 </div>
