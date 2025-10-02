@@ -49,8 +49,8 @@ I'm a dedicated learner with a strong foundation in programming, eager to contri
 ### [DevBack-End_SENAI](https://github.com/MuriloRVv2/DevBack-End_SENAI)
 A collection of Java exercises and hands-on projects focused on back-end development concepts, including OOP principles, data structures, and basic API implementations. Great for showcasing foundational skills!
 
-### [MyProjects](https://github.com/MuriloRVv2/MyProjects)
-Personal repository with diverse projects across multiple languages (Java, PHP, JavaScript, etc.). Includes web apps, database integrations, and experimental code to demonstrate versatility.
+### [AgendaContatos](https://github.com/MuriloRVv2/AgendaContatos)
+A complete contact management application developed with Java, MySQL, and Spring Boot. Features full CRUD operations for contacts, user authentication, search functionality, and a responsive web interface via REST APIs. Demonstrates real-world back-end skills in database integration and API design.
 
 *More projects coming soon as I build my portfolio! Feel free to check out my [GitHub](https://github.com/MuriloRVv2?tab=repositories) for the full list.*
 
