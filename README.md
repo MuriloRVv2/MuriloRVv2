@@ -84,7 +84,7 @@ I'm always open to chatting about tech, collaborations, or opportunities. Reach 
   <img width="12" />  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" height="40" alt="VS Code" />  
   <img width="12" />  
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg" height="40" alt="IntelliJ IDEA" />  
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white" height="40" alt="IntelliJ IDEA" />  
   <img width="12" />  
   <img src="https://github.com/MuriloRVv2/MuriloRVv2/blob/output/github-contribution-grid-snake.gif" alt="Snake Animation" width="300" />  
   <img src="https://github.com/MuriloRVv2/MuriloRVv2/blob/output/github-contribution-grid-pacman.gif" alt="Pacman Animation" width="300" />
