@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Murilo+Rodrigues;Systems+Development+Student;Back-End+Developer+Trainee;Passionate+about+Java+%26+Spring+Boot" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloRVv2&show_icons=true&hide_title=true&count_private=true&theme=dracula" alt="Murilo's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloRVv2&layout=compact&langs_count=7&theme=dracula" alt="Top Languages" />
-</div>
-
 ---
 
 # 👋 Hi, I'm Murilo Rodrigues
