@@ -70,7 +70,7 @@ I'm always open to chatting about tech, collaborations, or opportunities. Reach 
 
 ---
 
-<div align="center">
+<div align="center" justify-content="center">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" height="40" alt="Java" />  
   <img width="12" />  
   <img src="https://download.logo.wine/logo/Eclipse_(software)/Eclipse_(software)-Logo.wine.png" height="40" alt="Eclipse" />  
