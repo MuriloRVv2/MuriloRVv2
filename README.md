@@ -70,18 +70,7 @@ I'm always open to chatting about tech, collaborations, or opportunities. Reach 
 
 ---
 
-<div align="center" justify-content="center">
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" height="40" alt="Java" />  
-  <img width="12" />  
-  <img src="https://download.logo.wine/logo/Eclipse_(software)/Eclipse_(software)-Logo.wine.png" height="40" alt="Eclipse" />  
-  <img width="12" />  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" height="40" alt="VS Code" />  
-  <img width="12" />  
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white" height="40" alt="IntelliJ IDEA" />  
-  <img width="12" />  
-  <img src="https://github.com/MuriloRVv2/MuriloRVv2/blob/output/github-contribution-grid-snake.gif" alt="Snake Animation" width="300" />  
-  <img src="https://github.com/MuriloRVv2/MuriloRVv2/blob/output/github-contribution-grid-pacman.gif" alt="Pacman Animation" width="300" />
-</div>
+
 
 ---
 
