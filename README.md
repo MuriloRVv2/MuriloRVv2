@@ -81,21 +81,6 @@ A complete contact management application built with **Java**, **MySQL**, and **
 
 ---
 
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:muriloveroneze0987@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://wa.me/5511961440243"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/murilo-rodrigues-viegas-883628311"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/MuriloRVv2"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuriloRVv2&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
-
----
-
 <div align="center">
   <p><i>Thanks for visiting! 🚀</i></p>
 </div>
