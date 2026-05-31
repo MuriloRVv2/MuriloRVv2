@@ -13,7 +13,7 @@
 - 📚 **Student of Systems Development** at [ETEC Prof. Camargo Aranha]
 - 💻 **Training as a Back-End Developer** at SENAI
 - ☕ Focused on **Java**, **OOP**, **SQL**, and **Spring Boot**
-- 🚀 Looking for opportunities as **Back-End Intern / Junior Developer**
+- 🚀 Looking for opportunities as **Back-End Intern**
 
 I'm a dedicated learner building a strong foundation in programming and eager to contribute to real-world projects. Let's connect and grow together!
 
